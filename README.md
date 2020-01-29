@@ -20,8 +20,8 @@ This code follows episodes 34 to 36 of Laravel 5.7 from Scratch. It shows how to
 * Developed on local machine. Server requirements found at https://laravel.com/docs/5.7/#server-requirements
 
 ## Setup
-* git clone 
-* cd 
+* git clone https://github.com/lcmpembroke/Laravel_Scratch_Ep34to36_Laravel_Vue.git 
+* cd Laravel_Scratch_Ep34to36_Laravel_Vue
 * composer install
 * npm install   (to install required packages in the package.json file)  
 * npm run dev
